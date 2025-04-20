@@ -1,0 +1,13 @@
+names:
+- knife
+- scissors
+nc: 2
+roboflow:
+  license: Public Domain
+  project: desafio-fase-05
+  url: https://universe.roboflow.com/fiap-cxe1i/desafio-fase-05/dataset/1
+  version: 1
+  workspace: fiap-cxe1i
+test: ../test/images
+train: ../train/images
+val: ../valid/images

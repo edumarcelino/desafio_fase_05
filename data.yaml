@@ -1,0 +1,4 @@
+train: C:/Users/eduma/OneDrive/Documentos/projetos/fiap.desafio.5/Desafio-Fase-05-1/train/images
+val: C:/Users/eduma/OneDrive/Documentos/projetos/fiap.desafio.5/Desafio-Fase-05-1/valid/images
+nc: 3
+names: ['faca', 'tesoura', 'objeto_cortante_outro']
