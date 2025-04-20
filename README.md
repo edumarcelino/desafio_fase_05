@@ -27,10 +27,12 @@ Este projeto tem como objetivo identificar automaticamente objetos cortantes (co
 ## 📂 Estrutura do Projeto
 
 ```bash
-├── modelos/                 # Modelo YOLOv8 treinado (.pt)
-├── videos/                  # Vídeo de entrada
-├── frames_salvos/           # Frames salvos com alta confiança
-├── desafio05_00_config.py   # Configurações do canal de envio
-├── desafio05_02_alertas.py  # Função de envio de alertas
-├── main.py                  # Arquivo principal de processamento
-└── README.md                # Este documento
+├── modelos/                        # Modelo YOLOv8 treinado (.pt)
+├── videos/                         # Vídeo de entrada
+├── config.env                      # Arquivo de configurações
+├── frames_detectados/              # Frames salvos com alta confiança (alta de 50%)
+├── desafio05_00_config.py          # Configurações do canal de envio
+├── desafio05_01_treinamento.py     # Arquivo de treinamento do modelo
+├── desafio05_02_alertas.py         # Configurações de alertas
+├── desafio05_03_detectar_video.py  # Execução do processamento
+└── README.md                       # Este documento
