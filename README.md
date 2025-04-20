@@ -1,6 +1,6 @@
-# 🔍 VisionGuard: Detecção Automatizada de Objetos Cortantes em Vídeos
+# 🔍 Projeto FIAP - Desafio 05 - Desenvolvimento de Aplicativo de Objetos Cortantes: Detecção Automatizada de Objetos Cortantes em Vídeos
 
-Este projeto tem como objetivo identificar automaticamente objetos cortantes (como facas e tesouras) em vídeos, com o intuito de alertar operadores humanos e registrar as ocorrências. A aplicação combina **visão computacional** com **automação de alertas**, sendo ideal para ambientes sensíveis como escolas, hospitais e áreas de segurança.
+Este projeto tem como objetivo identificar automaticamente objetos cortantes (como facas e tesouras) em vídeos, com o intuito de alertar operadores humanos e registrar as ocorrências. A aplicação combina **visão computacional** com **automação de alertas**, sendo ideal para ambientes sensíveis.
 
 ---
 
